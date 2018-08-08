@@ -4,21 +4,21 @@ about: Project
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
-
 **The Sitrep**
-**As a:**
-**I want:**
-**So that:**
+
+**As a:** Engineer
+**I want:** to test this out
+**So that**: blah blah blah
 
 **Acceptance Criteria:**
-- [] This is the completion goal for this project
+- [ ] Criteria 1
+- [ ] Criteria 2
+- [ ] Criteria 3
 
 **Tasks:**
-- [] Task 1
-- [] Task 2
-- [] Task 3
-- [] Task 4
+- [ ]  Task 1
+- [ ]  Task 2
+- [ ]  Task 3
+- [ ]  Task 4
 
-**Notes/Milestones**
+**Notes:**
